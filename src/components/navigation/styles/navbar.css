@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:500');
+
+nav ul {
+  gap: 1rem;
+  font-family:'Montserrat', sans-serif;
+}
+
+.perrinn-logo{
+  cursor: pointer;
+  background-color: white;
+}
+

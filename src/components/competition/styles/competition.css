@@ -1,0 +1,38 @@
+.comp-grad {
+    height: 20em; 
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(6, 83, 139, 1)), url('../../../images/Nurburg_real_1.png');
+    background-position: center center;
+    background-size: cover;
+}
+
+.comp-grad-info {
+    background-color:#06538b; 
+    padding-left: 80px; 
+    padding-right: 80px; 
+    padding-top: 10px; 
+    padding-bottom: 10px; 
+    text-align: left; 
+    color: white;
+}
+
+.info-block {
+    padding: 30px 110px 20px 110px;
+}
+
+.mb-1{
+    margin-top: 90px;
+}
+
+.mb-1-info-block{
+    background-color: white;
+}
+
+.mb-2-info-block{
+    background-color: #06538b; 
+    color: white
+}
+
+.mb-3-info-block .h2{
+    color: #0087E8
+}
+

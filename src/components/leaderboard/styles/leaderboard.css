@@ -1,0 +1,79 @@
+.lead-grad {
+    height: 20em; 
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(6, 83, 139, 1)), url('../../../images/Nurburg_carousel.png');
+    background-position: center center;
+    background-size: cover;
+}
+
+.lead-grad-info {
+    background-color:#06538b; 
+    padding-left: 80px; 
+    padding-right: 80px; 
+    padding-top: 10px; 
+    padding-bottom: 10px; 
+    text-align: left; 
+    color: white;
+}
+
+
+/* Align the tables to the centre of the page */
+.container {
+    color: #333;
+    margin: 0 auto;
+    max-width: 1296px;
+}
+
+/* Table styling */
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 0;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    table-layout: fixed;
+    width: 100%;
+}
+thead th, thead td {
+    padding: 10px;
+}
+tbody th, tbody td {
+    border-top: 1px solid rgba(0, 0, 0, 0.15);
+    padding: 8px 10px;
+}
+
+/* Filters styling */
+#leaderboard_filters label {
+    border-radius: 3px;
+    display: inline-block;
+    padding: 6px 12px;
+}
+#leaderboard_filters select {
+    background-color: transparent;
+    border: 1px solid #aaa;
+    border-radius: 3px;
+    padding: 4px;
+}
+
+/* Length styling */
+#leaderboard_length {
+    float: left;
+}
+#leaderboard_length select {
+    background-color: transparent;
+    border: 1px solid #aaa;
+    border-radius: 3px;
+    padding: 4px;
+}
+
+/* Search styling */
+#leaderboard_search {
+    float: right;
+    text-align: right;
+}
+#leaderboard_search input {
+    border: 1px solid #aaa;
+    border-radius: 3px;
+    padding: 5px;
+    background-color: transparent;
+    margin-left: 3px;
+}

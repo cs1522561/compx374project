@@ -1,0 +1,31 @@
+.down-grad {
+    height: 20em; 
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(6, 83, 139, 1)), url('../../../images/Unity_Project424_1.png');
+    background-position: center center;
+    background-size: cover;
+}
+
+.down-grad-info {
+    background-color:#06538b; 
+    padding-left: 80px; 
+    padding-right: 80px; 
+    padding-top: 10px; 
+    padding-bottom: 10px; 
+    text-align: left; 
+    color: white;
+}
+
+.mb-1{
+    margin-top: 90px;
+}
+
+.mb-1-info-block{
+    padding: 50px 100px 50px 100px;
+}
+
+.mb-2-info-block{
+    background-color: #464646; 
+    color: white; 
+    padding: 50px 100px 50px 100px;
+}
+

@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:500');
+
+.verification{
+    display: flexbox;
+    justify-content: center;
+    text-align: center;
+}
